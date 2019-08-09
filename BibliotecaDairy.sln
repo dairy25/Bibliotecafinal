@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDairy", "BibliotecaDairy\BibliotecaDairy.csproj", "{CACE7F72-DCEC-429C-8955-17B104879D64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaDairy", "BibliotecaDairy\BibliotecaDairy.csproj", "{CACE7F72-DCEC-429C-8955-17B104879D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaTest", "BibliotecaTest\BibliotecaTest.csproj", "{F4CCB498-1E38-4472-98B7-2944E77AB509}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CACE7F72-DCEC-429C-8955-17B104879D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CACE7F72-DCEC-429C-8955-17B104879D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CACE7F72-DCEC-429C-8955-17B104879D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CCB498-1E38-4472-98B7-2944E77AB509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CCB498-1E38-4472-98B7-2944E77AB509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CCB498-1E38-4472-98B7-2944E77AB509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CCB498-1E38-4472-98B7-2944E77AB509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

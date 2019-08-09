@@ -31,7 +31,7 @@ namespace BibliotecaDairy.Services
                     return true;
 
                 }
-                catch (Exception err)
+                catch 
                 {
                     return false;
                 }
@@ -47,7 +47,7 @@ namespace BibliotecaDairy.Services
                     _DbContext.SaveChanges();
                     return true;
                 }
-                catch (Exception err)
+                catch 
                 {
                     return false;
                 }
@@ -68,7 +68,7 @@ namespace BibliotecaDairy.Services
                     _DbContext.SaveChanges();
                     return true;
                 }
-                catch (Exception err)
+                catch 
                 {
                     return false;
                 }
